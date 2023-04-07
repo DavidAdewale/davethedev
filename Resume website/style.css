@@ -1,0 +1,98 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+}
+
+.bold-weight{
+    font-weight: 600;
+}
+.couriertype{
+    font-family: 'Courier Prime', monospace;
+}
+
+.dm-sans{
+    font-family: 'DM Sans', sans-serif;
+}
+
+.text-main{
+    color: #0081A0;
+}
+
+.text-body{
+    color: #1C1C1C;
+}
+
+.gray-bg{
+    background-color: #1C1C1C;
+}
+
+.socials{
+    color: rgba(255,255,255,0.5);
+    transition: all 350ms ease;
+}
+
+.socials:hover{
+    color: #FF3730;
+}
+
+.btn-outline-main{
+    border: 1px solid #0081A0;
+    color: #0081A0;
+}
+
+.btn-outline-main:hover{
+    background-color: #0081A0;
+    color: #fff;
+}
+
+.bg-main{
+    background-color: #0081A0;
+}
+
+.text-red{
+    color: #FF3730;
+}
+
+.card{
+    transition: all 350ms ease;
+}
+
+.card:hover{
+    box-shadow: 2px 5px 25px rgba(0,0,0,0.15);
+}
+
+.link-broken{
+    text-decoration: none;
+    color: rgba(255,255,255,0.6);
+    transition: all 350ms ease;
+}
+
+.link-broken:hover{
+    text-decoration: underline;
+    color:#FF3730;
+}
+
+.link{
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    transition: all 350ms ease;
+}
+
+.link:hover{
+    color: #0081A0;
+    text-decoration: underline;
+}
+
+.link-gold{
+    color: rgba(255,255,255,0.8);
+    transition: all 350ms ease;
+    text-decoration: none;
+}
+
+.link-gold:hover{
+    color: #EDB018;
+    text-decoration: underline;
+}
+
+.dark{
+    color: #1C1C1C;
+}
